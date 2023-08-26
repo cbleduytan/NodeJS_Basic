@@ -1,0 +1,12 @@
+{
+  "name": "Education",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cbleduytan/NodeJS_Basic.git",
+  "author": "tanld",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
