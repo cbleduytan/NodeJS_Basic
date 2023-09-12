@@ -1,12 +1,12 @@
 {
   "name": "Education",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "index.js",
   "repository": "https://github.com/cbleduytan/NodeJS_Basic.git",
   "author": "tanld",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon --inspect src/index.js"
+    "start": "node --inspect index.js"
   },
   "nodemonConfig": {
     "execMap": {
